@@ -4,8 +4,11 @@
  i put 4 types of password :
 
  1- weak : its just lowercase 
+ 
  2-medium : its numbers and lowecase 
+ 
  3-strong : lowercase , uppercase,numbers
+ 
  4-Excellent : lowercase ,uppercase,numbers, and symbols
 
  you can choose how many charachers do your password should have in length Entry
